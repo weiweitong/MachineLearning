@@ -1,2 +1,2 @@
-# deep_learning_pytorch
+# deep_learning
 deep learning in action with pytorch
