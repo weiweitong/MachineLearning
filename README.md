@@ -1,7 +1,14 @@
 # Theory
-The theory directory is talking about the basic machine learning skills.
+The Theory directory is talking about the basic machine learning skills.
 
-# Deep Learning
+# genetic algorithm
+use genetic algorithm to solve the problem of TSP
+
+# Mathine Learning
+
+include the MNIST and ResNet Medical Image Recognition
+
+use multiple GPU
+
 deep learning in action with pytorch
 
-使用了多个GPU，做了前置优化
