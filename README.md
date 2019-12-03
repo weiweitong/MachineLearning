@@ -1,3 +1,6 @@
+# Theory
+The theory directory is talking about the basic machine learning skills.
+
 # Deep Learning
 deep learning in action with pytorch
 
